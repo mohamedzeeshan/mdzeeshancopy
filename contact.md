@@ -6,7 +6,7 @@ permalink: /contact/
 
 Email: [mr3613@columbia.edu]
 
-{% twitter_follow_button %}
+<!-- {% twitter_follow_button %} -->
 
 <!-- {% facebook_follow_button %} -->
 
