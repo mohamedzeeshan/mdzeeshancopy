@@ -145,6 +145,7 @@ GEM
       jekyll (~> 3.3)
     jekyll-titles-from-headings (0.1.5)
       jekyll (~> 3.3)
+    jekyll-twitter-plugin (2.0.0)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
     jemoji (0.8.0)
@@ -168,6 +169,8 @@ GEM
       mini_portile2 (~> 2.1.0)
     octokit (4.7.0)
       sawyer (~> 0.8.0, >= 0.5.3)
+    octopress-social (1.4.5)
+      jekyll (>= 2.0)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     public_suffix (2.0.5)
@@ -194,6 +197,8 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-twitter-plugin
+  octopress-social
 
 BUNDLED WITH
    1.14.6

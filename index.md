@@ -6,10 +6,4 @@ permalink: /
 
 {% include image.html url="images/photo.jpg" caption="" max_width="300px" align="right" %}
 
-Mohamed Zeeshan is an awesome political analyst, and a pro at Microeconomics.
-
-## Contact
-
-Email: [mr3613@columbia.edu]
-
-[mr3613@columbia.edu]: mailto:mr3613@columbia.edu
+Mohamed Zeeshan is a policy analyst and media commentator. He has written on foreign policy and international affairs for The Diplomat, The National Interest, India Today and other mainstream publications around the world. He is currently studying International Affairs at Columbia University, with a specialization in Economic and Political Development. His next big research project explores the evolution of Indian Foreign Policy in a fast-changing world.

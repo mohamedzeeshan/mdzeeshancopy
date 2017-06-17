@@ -4,6 +4,7 @@ sourcecode: "https://github.com/srujanrouthu/mdzeeshan"
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
+gems: ['jekyll-twitter-plugin', 'octopress-social']
 
 url: "http://srujanrouthu.github.io/mdzeeshan"     # the base hostname & protocol for your site
 baseurl: ""                   # the subpath of your site, e.g. /blog
@@ -55,3 +56,37 @@ comments:
       num_posts: 5
       width: 580
       colorscheme: light
+
+# Settings for twitter plugin
+twitter:
+  username:            ZeeMohamed_        # Add your Twitter handle
+  tweet_count:         false              # Show number of shares on Twitter
+  size:                large              # Or large
+  embedded_link_color:                    # Set link color for embedded tweets
+
+  follow_count:        true               # Show number of followers
+  tweet_message:       ":title by :username :hashtags - :url" # With Tweet button Twitter add the URL last
+  tweet_link_text:     Twitter            # Configure the link text
+  tweet_link_title:    Share on Twitter   # Share link title
+  profile_link_text:   Follow :username
+  profile_link_title:  Follow :username on Twitter  # Profile link title text
+
+# Settings for Facebook plugin
+facebook:
+  app_id:                                 # For a nicer (no js) sharing experience
+  profile_id:          mohamedzeeshan     # For follow button or profile link
+  action:              like               # Or recommend
+  share:               false              # Also add a share button
+  layout:              button             # Choices: standard, box_count, button_count, button
+  show_faces:          false
+  colorscheme:         light              # Or dark
+  kid_directed_site:   false              # Is your site directed at kids under 13?
+
+  share_link_text:     Facebook            # Text for plain-old link
+  share_link_title:    Share on Facebook   # Share link title text
+  profile_link_text:   Friend on Facebook
+  profile_link_title:  Friend on Facebook  # Profile link title text
+
+  comment_count:       5             # Number of facebook comments to show by default
+  comments_link_text:     Comments
+  disabled_comments_text: Comments disabled  # Set to '' to output nothing when comments are disabled

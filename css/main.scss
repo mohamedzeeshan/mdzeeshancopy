@@ -52,3 +52,15 @@ $desktop:          50em;
     "syntax-highlighting",
     "fancy-image"
 ;
+
+.contacts {
+  .jekyll-twitter-plugin {
+    display: none;
+  }
+}
+
+.tweets {
+  p {
+    display: none
+  }
+}
