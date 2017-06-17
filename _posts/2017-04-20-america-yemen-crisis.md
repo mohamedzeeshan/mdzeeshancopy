@@ -3,7 +3,7 @@ layout: post
 title: "America's Yemen Crisis is Bigger than Just Yemen"
 categories: ["America", "Yemen", "Middle East", "Saudi Arabia"]
 location: "The National Interest"
-snippet: "The challenge for Trump would be in reconciling his Saudi alliance with the fact that the Saudi-backed Hadi government is no longer in a position to rule. Backing the aimless Saudi operation — whether verbally or militarily — will only make Iranian interests in the country more deeply entrenched, and the conflict unending."
+snippet: "The challenge for Trump would be in reconciling his Saudi alliance with the fact that the Saudi-backed Hadi government is no longer in a position to rule. Backing the aimless Saudi operation — whether verbally or militarily — will only make Iranian interests in the country more deeply entrenched, and the conflict unending. (Published in The National Interest)"
 ---
 
 Long before the Trump administration launched missiles at an Assad regime air base in Syria and dropped the world’s most lethal nonnuclear bomb in Afghanistan, it undertook its first military offensive in Yemen. In late January, just two weeks into his term, President Trump ordered a military raid on suspected Al Qaeda targets in that country.
