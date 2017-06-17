@@ -9,9 +9,6 @@ layout: default
     {% if page.description %}
     <p class="post-meta">Description: {{ page.description }}</p>
     {% endif %}
-
-    </p>
-    {% endif %}
     </header>
 
     {{ content }}
@@ -24,4 +21,6 @@ layout: default
     <!-- <a href="{{/categories/#{{ cat }} | prepend: site.baseurl}}" title="{{ cat }}">{{ cat }}</a>&nbsp; -->
     {{ cat }}&nbsp;
     {% endfor %}
+    </p>
+    {% endif %}
 </div>

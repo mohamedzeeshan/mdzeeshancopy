@@ -14,8 +14,10 @@ permalink: /publications/
   <li class="listing-item">
     <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
     <a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}">{{ post.title }}</a>
-    <p style="font-size: 20px; margin-bottom: 0">{{ post.snippet }}</p>
-    <a href="{{ post.url | prepend: site.baseurl }}" style="font-size: 18px" title="{{ post.title }}"><i>Continue reading &rarr;</i></a>
+    {% if post.snippet %}
+      <p style="font-size: 20px; margin-bottom: 0">{{ post.snippet }}</p>
+      <a href="{{ post.url | prepend: site.baseurl }}" style="font-size: 18px" title="{{ post.title }}"><i>Continue reading &rarr;</i></a>
+    {% endif %}
   </li>
 {% endfor %}
 </ul>
