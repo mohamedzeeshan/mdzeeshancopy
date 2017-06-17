@@ -4,7 +4,9 @@ sourcecode: "https://github.com/srujanrouthu/mdzeeshan"
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
-gems: ['jekyll-twitter-plugin', 'octopress-social']
+gems:
+  - 'jekyll-twitter-plugin'
+  - 'octopress-social'
 
 url: "http://srujanrouthu.github.io/mdzeeshan"     # the base hostname & protocol for your site
 baseurl: ""                   # the subpath of your site, e.g. /blog
