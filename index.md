@@ -10,9 +10,8 @@ Mohamed Zeeshan is a policy analyst and media commentator. He has written on for
 
 ## Contact
 
-Email Zeeshan on [mr3613@columbia.edu]
-
-Follow him on Twitter @[ZeeMohamed_] and on Facebook at [mohamedzeeshan]"
+Write to Zeeshan on [mr3613@columbia.edu]
+Follow him on Twitter @[ZeeMohamed_] and on Facebook at [mohamedzeeshan]
 
 [mr3613@columbia.edu]: mailto:mr3613@columbia.edu
 [mohamedzeeshan]: https://www.facebook.com/mohamedzeeshan
