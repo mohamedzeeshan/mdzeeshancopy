@@ -56,4 +56,4 @@ Yet, in the three years that have passed, no such probe has taken place. Worse, 
 
 New Delhi must decide on a consistent course of action towards Islamabad if it is to curb the frequency of cross-border terrorism. And that means building bargaining power in place of tall domestic rhetoric.
 
-(c) 2016, India Today Group
+(c) 2014-15, India Today Group
