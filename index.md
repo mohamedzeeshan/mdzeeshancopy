@@ -6,7 +6,7 @@ permalink: /
 
 {% include image.html url="images/photo.jpg" caption="" max_width="300px" align="right" %}
 
-Mohamed Zeeshan is a policy analyst and media commentator. He has written on foreign policy and international affairs for The Diplomat, The National Interest, India Today and other mainstream publications around the world. He is currently studying International Affairs at Columbia University, with a specialization in Economic and Political Development. His next big research project explores the evolution of Indian Foreign Policy in a fast-changing world.
+Mohamed Zeeshan is a policy analyst and media commentator. He has written on foreign policy and international affairs for The Diplomat, The National Interest, India Today and other mainstream publications around the world, and also writes a monthly column on foreign affairs for the Deccan Herald. He holds a Master's degree in International Affairs from Columbia University, with a specialization in Economic and Political Development.
 
 ## Contact
 
