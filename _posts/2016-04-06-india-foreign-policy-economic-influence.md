@@ -1,0 +1,29 @@
+---
+layout: post
+title: "India Should Build its Diplomatic Clout with Economics"
+categories: ["foreign policy", "economic influence", "India", "China"]
+location: "Swarajya"
+snippet: "India is the only major global power which has publicly declared strategic alliances with all of Saudi Arabia, Iran and Israel in the Middle East. If India overuses the term ‘strategic alliance’, it will end up with mutually competing treaties, which will dilute India’s strategic significance. To increase its foreign policy power and political influence on the global stage, India should probably follow China’s example instead. (Published in Swarajya)"
+---
+
+Prime Minister Narendra Modi wrapped up a significant state visit to Saudi Arabia last week, as part of his continued efforts to engage with countries in the Middle East. Modi’s visit to Saudi Arabia followed visit to the United Arab Emirates, meeting with Iran’s President Hassan Rouhani, and President Pranab Mukherjee’s visits to Israel, Jordan and the Palestinian territories last year.
+
+All of these engagements are part of New Delhi’s balancing act in the Middle East and its quest to build political influence in the region. The common denominator in each of these diplomatic events was India’s bid to push for counter-terrorism cooperation, intelligence sharing and strategic collaboration – many of these with an implied reference to Pakistan. But some have faulted India’s Middle East foreign policy for a lack of cohesion. Today, India is the only major global power which has publicly declared strategic alliances with all of Saudi Arabia, Iran and Israel – warring nations in the region’s geopolitics. And none of them seem like real ‘strategic allies’ at all.
+
+New Delhi can’t be absolved of being guilty of overusing the term ‘strategic alliance’. In common diplomatic parlance, strategic alliances require allies to align their foreign policies in the pursuit of common strategic interests. 
+
+Given India’s yet limited role in geopolitics outside its own region, New Delhi is not yet quite ready to enter into the deep commitments demanded by a functional strategic alliance – except, perhaps, in South East Asia, where converging interests between India, Japan, the United States and countries in the ASEAN make for fertile grounds for a strategic alliance. If India overuses the term ‘strategic alliance’ with other countries, in regions where it shares no real common geopolitical interests, it will end up with mutually competing treaties, which could potentially dilute the significance of India’s strategic role in the present and the future.
+
+India’s yearning to declare ‘strategic alliances’ with everybody, it seems, is borne out of its vision of increasing its own foreign policy power and political influence on the global stage. But to do that, India should probably follow China’s example instead. Over the last three decades, China has relegated itself to a more limited geopolitical role, concentrating instead on building its economy. Presidents who followed Deng Xiaoping suspended China’s previously more proactive strategic role in different parts of the world, limiting China’s strategic power to its immediate neighborhood.
+
+As China’s economic clout increased, it strengthened trade ties with countries around the world. In 2014, China was the largest trading partner in terms of both exports and imports for as many as nine countries around the world. India held that position for just three – Bhutan, Nepal and Tanzania. For the same year, China’s trade with its largest trade partner, the United States, totaled over $520 billion. India’s trade with China – its largest trade partner that year – was a relatively meager $72 billion.
+
+Many believe that China’s economy is now past its peak, what with impending demographic problems and increasing debt. But Xi has been keen to cash in on China’s economic prowess to satisfy his foreign policy ambitions. The Silk Road is a classic example of that – an infrastructure project which exports China’s economic growth to other parts of the world, thereby making countries increasingly dependent on Beijing even in geopolitics.
+
+If India has to increase its global power ratings, that would have to be the blueprint – bolster economic growth, build trade ties and then carve out strategic alliances that would actually hold water. The Indian economy won’t just grow because of increasing foreign investment; it would also need investment on human resources at home – including increased spending on quality education and healthcare – and structural reforms that can harness India’s demographic dividend.
+
+And if India is able to build an economic growth story of its own, it would have an extra card to play which Beijing didn’t bother to cultivate – soft power. China’s economic growth model is a model for none. The likes of Indonesia, Nigeria, Philippines and South Africa can’t hope to emulate a top-down model of growth, driven by authoritarianism and state capitalism. But they can hope to emulate an Indian-style bottom-up model, driven by democracy and private enterprise. If India succeeds in achieving consistently high growth with a democratic form of government therefore, the Indian story would be the greatest advertisement for democracy anywhere in the world, and would easily be accepted by countries across Africa, Latin America and South East Asia.
+
+A powerful India wouldn’t be disruptive or combative; far from it, many expect a more powerful New Delhi to play a constructive role in upholding international law and building a fair and equitable world order. Most countries readily welcome a greater role for India in global geopolitics, because of its democratic credentials and soft power influence. But none of this would happen through incoherent strategic alliances; they would happen through increased economic clout and a coherent vision in foreign policy.
+
+(c) 2016, Swarajya
