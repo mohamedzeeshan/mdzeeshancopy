@@ -1,0 +1,33 @@
+---
+layout: post
+title: "How New Delhi Must Tackle Beijing"
+categories: ["China", "foreign policy", "India"]
+location: "Swarajya"
+snippet: "China, today, isn’t quite as peaceful and hunky-dory as many Indians believe. In fact, Beijing’s authority is increasingly under the scanner across the country. In Hong Kong, for example, students have been out on the streets in the latest round of protests against Beijing’s decision to vet candidates standing for elections in the city. In restive Xinjiang up north, serial blasts took lives earlier this year in a rare act of terrorism on Chinese soil. (Published in Swarajya)"
+---
+
+President Xi Jinping’s visit to India this September has left Indian foreign policy watchers confused. Not much bonhomie is generally expected between India and China, but even as Xi landed in India, his Consul-General in Mumbai, Liu Youfa, was quoted as saying that China will “(on) a conservative estimate… commit investments of over $100 billion or thrice the investments committed by Japan”. Days later, President Xi spent Modi’s birthday in the latter’s home state of Gujarat, walking by the Sabarmati River and enjoying a little swing.
+
+In the meantime, Indian soldiers warded off another incursion from the Chinese military into contested territory in Ladakh. The incident forced Modi to register his strongest protest with the Chinese President during the course of their bilateral meetings. By the time Xi left New Delhi, the $100 billion promise was cut down to a mere $20 billion – not thrice, but less than two-thirds the Japanese commitment. A solution on the border dispute seemed even more elusive than it was before the state visit. The concluding statements were anti-climactic even by Sino-Indian standards. Many ask, is this too a strategic ploy by Beijing?
+
+That isn’t entirely impossible. China, today, isn’t quite as peaceful and hunky-dory as many Indians believe. In fact, Beijing’s authority is increasingly under the scanner across the country. In Hong Kong, for example, students have been out on the streets in the latest round of protests against Beijing’s decision to vet candidates standing for elections in the city. In restive Xinjiang up north, serial blasts took lives earlier this year in a rare act of terrorism on Chinese soil.
+
+These aren’t overnight troubles; China has been suppressing popular protest in Tibet, Xinjiang and Hong Kong for years. But as the Chinese middle class grows wealthier, so do its aspirations for a liberal democracy. The one dream that long bound together the Chinese people was the promise of economic growth. But even that has been slowing down, by Chinese standards. Rising wages and Beijing’s tensions with Tokyo (along with increased bias towards homegrown entrepreneurs) have seen foreign manufacturers shift to the Far East – predominantly Indonesia and the Philippines, where labour is now in fact cheaper.
+
+How does Beijing respond to the challenges to its domestic authority? The answer: by portraying its neighbourhood as a hostile one. Chinese leaders have, in the past, tried to ramp up tensions with neighbours every time they faced political troubles back home – most notably in 1962, when Prime Minister Zhou Enlai went to war with India seemingly unnecessarily. That sounds like an absurd ploy. But this actually works for Beijing. A hostile neighbourhood allows Beijing to show its people that the country would be in danger of foreign aggression if the capital’s coterie didn’t corner authority. It thereby creates diversions by fighting in the neighbourhood.
+
+Today, China’s list of border disputes rivals those of imperial powers from the medieval era. From India and the Far East to Japan and Mongolia, China has put on hold countless territorial and maritime disputes, taking on lesser armies and economic powers. She resents its neighbours coming together (think of how Beijing reacted to the recent deal between India and Japan, for instance, or of how it refuses to have multilateral dealings with the ASEAN over the South China Sea).
+
+That is because a united neighbourhood makes China’s border battles tougher and more complicated. Instead, Beijing prefers to deal with its antagonized neighbours severally and promise them economic opportunities in its $9 trillion powerhouse. That was the larger part of the effort exerted by President Xi’s delegation in India last week.
+
+New Delhi, on its part, must engage with China’s neighbourhood. The more it allows Beijing to turn its border disputes into bilateral affairs, the less productive things would prove to be for India. Instead, forming broad-based coalitions with the ASEAN and Japan, in particular, would further New Delhi’s cause and strengthen its case militarily vis-a-vis China.
+
+That’s probably the easy part. The hard part is in the economics. New Delhi recognizes the importance of economic ties with Beijing and would like to separate economics from geopolitics. Rightly so, because China is India’s largest trade partner, eclipsing New Delhi’s dealings with the UAE earlier this year. To add, the trade comes at a whopping $36 billion deficit against New Delhi.
+
+All that said, it isn’t all one-way traffic. India and China are the world’s most populous nations. But India’s middle class will grow for longer than China’s, because its people are significantly younger. In the coming years, while China loses its labour force to age and time, India will add more and more workers to its own bank – provided the demographic dividend is utilized efficiently. That will create a large consumerist middle class in India that, given its numbers, will invariably exercise sizable influence on the global economy.
+
+Demographics are where India holds the aces. Demographics are also where China becomes dependent on India. As India’s consumerist class grows, it will spark off a trade war with China’s own consumerist class, pushing up prices in the two countries – a situation Beijing would likely dread more than New Delhi, given its aging workforce. Because of its political nature, Beijing likes to take a comparatively long-term view of its national policy and all these projections haven’t missed China’s attention. This is, in fact, part of why China sought to include India in the APEC recently, to work out an early solution to an anticipated problem.
+
+New Delhi, therefore, isn’t the only one keen to separate economics from geopolitics in this bilateral relationship. That sentiment is shared by those on the other side of the table as well. What New Delhi now needs to do is build strategic connections across Beijing’s exasperated neighbourhood, and avoid getting burnt by the dragon.
+
+(c) 2014, Swarajya
