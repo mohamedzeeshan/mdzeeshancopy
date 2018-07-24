@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Bibi's Tryst with India"
+categories: ["Israel", "India", "foreign policy", "strategic cooperation"]
+location: "Swarajya"
+snippet: "The West’s increasing indifference towards Israel has begun pushing Bibi away to powers on the other side of the world, namely China and India. With America’s increasing energy independence, many oil-producing states, particularly Iran, are now getting increasingly dependent on China and India for their economic stability. And Netanyahu wants to strengthen his hand in negotiations with Arab states by cashing in on Israel’s relations with this part of the world. (Published in Swarajya)"
+---
+
+The recent elections in Israel were widely touted to be a referendum on Prime Minister Benjamin Netanyahu. If that was so, ‘Bibi’ most definitely stands vindicated. After a closely fought electoral campaign, Netanyahu is back in office, having defied all odds and warded off a strong challenge from his centre-left opposition. But now in office, Netanyahu would want to continue doing what he’s promised to do — secure a peaceful future for Israel.
+
+India and Israel are getting increasingly close to each other, and there is much reason why they should — both of them face threats from militants, in Kashmir (in particular) and Palestine, and both of them often find themselves warding off challenges from the neighbourhood around them. Israel’s empathy towards India’s cause was what forced it to come to New Delhi’s aid during a critical war with Pakistan not too long ago, and that is why defence ties between the two countries have only grown stronger ever since.
+
+Yet, Palestine is not exactly Kashmir. While Kashmir is a part of India and is governed by Indian institutions and democracy, Palestine is de facto autonomous. Palestine today is neither a part of Israel nor separate from it. And the lawless status quo has harmed it badly. Few have faith in government institutions. One poll in Palestine found that 78 per cent of the Palestinians hold the Palestinian Authority to be a corrupt and incompetent regime. In all this confusion, Palestinians have allowed themselves to be overrun by militants who have driven the civilian authority to a corner.
+
+Resolving this lawless anomaly is integral to Bibi’s cause. One popular solution to it is to make Palestine a fully separate state. But the question is whether it would survive. There are reasons to believe otherwise. This is not a state with any experience in democracy. It does not have a leadership with popular support. It lacks a civil society.
+
+And it is infested with militancy. Whether the radical militants holed up in Gaza and the West Bank will allow a sovereign Palestine draw up and establish functional democracy is anybody’s guess. Unlike the common people on the ground, the Hamas have much to gain from the self-perpetuating chaos. If the Hamas had wanted to allow Palestine democratize and build itself, they would have done so long ago, because Palestinians already have enough autonomy to build a democracy for themselves. Yet, they have failed. That is why Prime Minister Netanyahu said that there will not be a separate state during his term — not entirely because he doesn’t want it, but, unfortunately, because Palestine won’t be able to build it by then.
+
+If a separate state is yet destined to fail, then the immediate alternative would be to go the other way — have Israel spread its own democratic and governing institutions to Palestine, and ask Palestinians to integrate themselves into the Israeli mainstream. As things stand today, that would be ideal. Palestinians, by their own account, crave for a living in the Israeli economy, and Israel too needs cheap labour from the other side. Should Palestinians integrate themselves into Israel, Netanyahu would also have their approval in taking on the Hamas, thereby giving him greater leverage on the ground in purging Palestine of its militancy.
+
+That sounds too good to be true, and unfortunately, it is. If Israelis and Palestinians are to live under one roof, both sides will have to reconcile. But the atmosphere is not conducive. Over the last many decades, the tenor of the conflict in Palestine has turned this from an Israel-Palestine issue into a Jewish-Arab war. Israel is isolated in its neighbourhood and surrounded by hostile states on all sides. (Consider, for instance, the fact that most of the Hamas’s supporters and sponsors are found in Tehran or Doha.) Far too many of its neighbours are politically invested today in the cause of a separate Palestine, stable or otherwise.
+
+And then there is the force of geopolitics: some of these states have managed to wean Washington away from Tel Aviv. Europe too has begun going the other way, with many of its governments now openly criticising Israel’s policies towards Palestine.
+
+This is where, perhaps, New Delhi can play a critical role. The West’s increasing indifference towards Israel has begun pushing Bibi away to powers on the other side of the world, namely China and India. With America’s increasing energy independence, many oil-producing states, particularly Iran, are now getting increasingly dependent on China and India for their economic stability. And Netanyahu wants to strengthen his hand in negotiations with Arab states by cashing in on Israel’s relations with this part of the world. In 2014, economic cooperation agreements between China and Israel added up to as high as $4 billion — and the trend continues.
+
+However, Netanyahu’s relationship with Beijing is less natural. Remember, China had propped up the Iranian regime previously in nuclear negotiations. India, on the other hand, shares many of Israel’s concerns on nuclear non-proliferation, global terrorism, the sanctity of democracy and so on. That is why Israel is now increasingly investing in India’s economic growth and military development — to help it negotiate with the Arabs over the future.
+
+If Israel and Palestine are to have a peaceful tomorrow, Netanyahu needs to find a way to embrace Palestinians and give them Israeli democracy. New Delhi, on its part, needs to bring the two sides in the conflict together in whatever way it can. This is not just for the sake of the bilateral relationship; it’s also for the cause of peace in Palestine.
+
+(c) 2015, Swarajya
