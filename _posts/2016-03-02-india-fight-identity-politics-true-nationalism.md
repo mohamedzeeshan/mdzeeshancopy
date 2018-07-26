@@ -1,0 +1,33 @@
+---
+layout: post
+title: "India Must Fight Identity Politics to Embrace True Nationalism"
+categories: ["India", "identity politics", "domestic politics", "Hindu nationalism"]
+location: "The Huffington Post"
+snippet: "There was a time when Nelson Mandela learnt from what Mahatma Gandhi did in India. Now, India has to learn from what Mandela did in South Africa. The idea of affirmative action, he said, was to ensure the absence of discrimination entirely - not to merely reverse it in favour of the oppressed. (Published in The Huffington Post)"
+---
+
+Politics is rarely beautiful, but it is uglier than usual in India at the moment. In Delhi, the face-off in Jawaharlal Nehru University (JNU) has followed other events which have threatened to make 'nationalism' a bad word in India. Some distance away, protesters from Haryana's Jat community have all but cut off the water supply to New Delhi, effectively holding the national capital ransom.
+
+The trouble with Indian politics today is the blatant organization of people on the basis of identity. Political discourse, these days, is often dominated not by national interests, but by community interests. Rights are associated not with individuals, but with communities. Votes too are associated not with individuals, but with communities. Citizens are segregated on the basis of things that are essentially personal -- religious belief, place of birth and parental background.
+
+Segregating an electorate on the lines of narrow identities has long been a political tactic used in different parts of the world. India, arguably the world's most diverse democracy, provides particularly rich grounds for divisive politics. India's diverse population, and the plurality of the Hindu community, makes everybody a 'minority' in some sense. By making community identity as narrow as possible, politicians prey on long-standing insecurities and exacerbate fears beyond the facts of ground reality.
+
+But politics in India wasn't always like this. Every Indian -- and millions more around the world -- knows of the inspiring stories of sacrifice and selflessness which adorned India's noble struggle for freedom. Our freedom fighters did not define their nationalism on the lines of casteist, religious or linguistic identity. Rather, they strove to unite a difficultly diverse country of multiple identities into a single nation, defined on the lines of noble values and principles, such as liberty, equality, fraternity and justice -- values that are universal in every sense and transcend the boundaries of narrow identities. That was Indian nationalism. That is why, despite the formation of Pakistan as a 'Muslim state' in 1947, India had more Muslims than Pakistan for years post its independence.
+
+As the euphoria of independence wore out, the all-embracing nation of principles gave way to the dirty politics of narrow identity. Politicians found it much easier to pander to the fears of isolated communities rather than to work for the fulfillment of national interests. While India introduced reservations on the basis of caste in order to tide over long-standing stigmas, these soon became tools for the segregation of people into vote banks. Soon, there was a race for backwardness, as political leaders channelled the frustration of individual citizens into the insecurity of entire communities, and painted other groups as threats. Politicians were no longer interested in winning the votes of individuals; they were now trying to win the votes of communities instead.
+
+There was a time when Nelson Mandela learnt from what Mahatma Gandhi did in India. Now, India has to learn from what Mandela did in South Africa. Mandela was president of a country that saw the most rigorous practice of political segregation in recent history -- more rigorous than any oppression that any Indian community could have faced in at least a century. Yet, when Mandela rose to high office, fresh from a long stint in prison no less, he argued vociferously for building a "non-racial state", where a citizen was South African first and Black or White later.
+
+Even as he brought in measures for providing equal opportunity to the long-oppressed blacks, Mandela asked South Africa to guard against overdoing affirmative action. In a speech delivered in October 1991, Mandela said: "We are not asking for hand-outs for anyone, nor are we saying that just as a white skin was a passport to privilege in the past, so a black skin would be the basis of privilege in the future." The idea of affirmative action, he said, was to ensure the absence of discrimination entirely -- not to merely reverse it in favour of the oppressed.
+
+Mandela's sentiments for a united South Africa were never better expressed than at the rugby World Cup of 1995 -- the first international sports event hosted by South Africa post apartheid. While Mandela had once treated the Springboks (South Africa's national rugby team) as an ugly vestige of apartheid, he came out in strong support of his national side at the World Cup, launching the slogan of "One Team, One Country" and uniting South Africa.
+
+But identity politics is often a manifestation of frustration over lack of opportunity. In recent years, as South Africa's economy has stagnated, racial politics is back. In a cruel twist of irony, it was sport which showed the most visible signs, when rumours of racial discrimination haunted South Africa's cricket team at last year's World Cup.
+
+In India too, frustration over growth feeds identity politics. Individuals are more likely to bargain as communities when they think that they need quotas in order to be successful. And as India's working population grows faster than its economy is able to create jobs, identity politics is likely to be the norm. Remember, the Patel agitation was about competition from the Scheduled Castes in education and employment and not about historical oppression. That is why the government has to meet the demands of an increasingly aspirational Indian middle class if it is to be able to cleanse political discourse.
+
+But India has stood together when it most mattered. For decades, the British Raj tried devious schemes in order to divide India. For decades, Indians fought back by defining their nationalist politics along the lines of freedom, equality and the promise of a better future, rather than pandering to narrow identities. When parties tried to form themselves along the lines of identity, they often failed. Even the Muslim League was routed in elections as late as in 1937, despite the system of communal electorates.
+
+We could do it back then. Don't tell me we can't do it now.
+
+(c) 2016, The Huffington Post
