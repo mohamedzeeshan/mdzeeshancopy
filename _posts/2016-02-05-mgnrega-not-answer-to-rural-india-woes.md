@@ -1,0 +1,23 @@
+---
+layout: post
+title: "MGNREGA Is Not The Answer To Rural India's Woes. Here's What Is"
+categories: ["India", "MGNREGA", "economic policy", "rural employment"]
+location: "The Huffington Post"
+snippet: "Governments cannot be expected to provide ad hoc employment to millions of people until they retire, nor is such a policy beneficial for the larger economy and its productivity. What is a basic function of the Indian government, however, is providing the same people with skills and education. (Published in The Huffington Post)"
+---
+
+This week marks the tenth anniversary of one of the world's largest state-run rural employment schemes. The Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS, more popularly denoted as MGNREGA after the governing Act) has given jobs to over 400 million households in India since its inception in 2006, accounting for a total expenditure of over Rs 3 lakh crore across 10 years.
+
+The sheer proportions of the MGNREGA scheme make it monumental. But it has also served some important functions in India's still largely agrarian economy. It has helped reduce urban migration to some extent, acted as a safety net in times of flood and drought, and given unemployed rural labourers much-needed income. The MGNREGA's importance was underscored by a UNDP report which acknowledged the potential of the scheme for rural development in India. "[This] legislation has the potential to address poverty in a holistic manner," the UNDP said.
+
+Yet, for all this significance, MGNREGA has often run into controversy. Prime Minister Narendra Modi was most scathing in his criticism when he called the scheme "a living monument of [the former UPA government's] failure", during the last budget session. To be sure, the scheme has had its flaws. Over the last decade, there have been numerous reports of false identity, swindling, non-execution of work and non-payment of wages. In one case in Bankeswar village of Odisha, a certain Upendranath Behera was paid Rs 3000 last year for having worked under the MGNREGA for 30 days. But official records later revealed that Behera had in fact died almost nine years ago in August 2006.
+
+A scheme of this magnitude was always going to be difficult to execute flawlessly, particularly in a country of India's vastness and diversity. But the MGNREGA was not supposed to be a magic potion. Both the scheme's most ardent supporters and its most vociferous critics often forget that employment under MGNREGA is not much more than a stop-gap arrangement for the scheme's beneficiaries. This is not a well-structured corporate enterprise that can employ millions of workers across the country until their age of retirement. It is only a welfare scheme that can support households temporarily, following which families must find a way to earn for themselves.
+
+Although the right to work is a recommended provision in the Indian Constitution, providing direct employment is not a basic function of the Indian government -- or any government, for that matter. Governments cannot be expected to provide ad hoc employment to millions of people until they retire, nor is such a policy beneficial for the larger economy and its productivity. What is a basic function of the Indian government, however, is providing the same people with the skills and education that they need to make themselves employable in the larger economy.
+
+India has fallen woefully short in this measure, and the spotlight being on MGNREGA hasn't helped at all. According to the World Bank, India spent less on education in 2011 and 2012 than it did on its military. Yet, in his last budget, Finance Minister Arun Jaitley slashed spending on education by an astounding 16% and passed the buck to state governments who haven't quite responded as necessary. Other aspects of human capital are no better: in 2013, India spent a meagre 4% of its GDP on health - less than half of the OECD average. Yet, the government cut public health spending by 15% in its last budget. Child development schemes have similarly suffered over the years.
+
+Admittedly, India faces a severe crunch in its public funds. India's tax collection figures are among the lowest in the world with an ever-shrinking tax base. But human capital is currently India's biggest priority, given its demographic profile. With the global economy slowing and China arguably past its prime, India has to step up as the world's next growth engine. That isn't going to happen through a rural employment scheme, no matter how monumental and novel. It requires focus on building an employable workforce.
+
+(c) 2016, The Huffington Post
