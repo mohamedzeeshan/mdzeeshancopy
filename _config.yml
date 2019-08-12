@@ -92,3 +92,5 @@ facebook:
   comment_count:       5             # Number of facebook comments to show by default
   comments_link_text:     Comments
   disabled_comments_text: Comments disabled  # Set to '' to output nothing when comments are disabled
+
+theme: jekyll-theme-minimal
